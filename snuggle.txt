@@ -1,3 +1,7 @@
+Neptunia Franchise
+----------------------------------------
+1st Forms
+----------------------------------------
 Pururut  +19
 Pish  +6
 Baby Pish  +5
@@ -59,7 +63,9 @@ Saori  +8
 Vio  -3
 Sango  +4
 Little Rain  +6
----------------------------
+----------------------------------------
+2nd Forms
+----------------------------------------
 Iris Heart  ++50
 Purple Heart  +3
 Purple Sister  +6
@@ -68,7 +74,10 @@ Orange Heart  -3
 White Heart  +10
 Pink Sister  +7
 Blue Sister  +4
-Black heart  no, just no
-Black Sister  ^^^
-Green Heart  ^^^
-Rei (hdd)  ^^^
+Black heart  -70
+Black Sister  -70
+Green Heart  -70
+Rei (hdd)  -70
+----------------------------------------
+3rd Forms
+----------------------------------------
