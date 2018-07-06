@@ -56,6 +56,9 @@ Wyn  +4
 Lady Wac  -6
 Generia G  +1
 Saori  +8
+Vio  -3
+Sango  +4
+Little Rain  +6
 ---------------------------
 Iris Heart  ++50
 Purple Heart  +3
