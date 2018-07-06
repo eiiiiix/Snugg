@@ -52,6 +52,7 @@ Poona  +3
 Tsunemi  +8
 Blossom  +12
 Ryuka +3
+Wyn +4
 ---------------------------
 Iris Heart  ++50
 Purple Heart  +3
