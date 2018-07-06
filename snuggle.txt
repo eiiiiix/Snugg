@@ -86,3 +86,7 @@ Tiara (Fury Form)  +8
 ----------------------------------------
 3rd Forms
 ----------------------------------------
+Next Green  -140
+Next Purple  +5
+Next Black  +2
+Next White  +7
