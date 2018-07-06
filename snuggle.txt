@@ -51,8 +51,11 @@ MarvelousAQL  +3
 Poona  +3
 Tsunemi  +8
 Blossom  +12
-Ryuka +3
-Wyn +4
+Ryuka  +3
+Wyn  +4
+Lady Wac  -6
+Generia G  +1
+Saori  +8
 ---------------------------
 Iris Heart  ++50
 Purple Heart  +3
