@@ -68,6 +68,8 @@ DCD  +10
 Fang  +7
 Eryn  +5
 Nisa  +7
+Kurome  +10
+Caelus (alive)  +7
 ----------------------------------------
 2nd Forms
 ----------------------------------------
@@ -82,8 +84,10 @@ Blue Sister  +4
 Black heart  -70
 Black Sister  -70
 Green Heart  -70
-Rei (hdd)  -70
+Blue Heart  ++25
 Tiara (Fury Form)  +8
+Dark Orange  -5
+Caelus (HDD)  -7
 ----------------------------------------
 3rd Forms
 ----------------------------------------
@@ -91,3 +95,4 @@ Next Green  -140
 Next Purple  +5
 Next Black  +2
 Next White  +7
+Caelus (dead)  +3
