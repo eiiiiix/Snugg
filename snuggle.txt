@@ -78,6 +78,9 @@ Caelus (alive)  +7
 Falcom  +8
 Teen Falcom  +9
 Young Arfoire  +10
+Croire  +9
+Bugnet Nep  +8
+True Goddess  +3
 ----------------------------------------
 2nd Forms
 ----------------------------------------
@@ -96,6 +99,7 @@ Blue Heart  ++25
 Tiara (Fury Form)  +8
 Dark Orange  -5
 Caelus (HDD)  -7
+True Goddess (HDD)  +5
 ----------------------------------------
 3rd Forms
 ----------------------------------------
@@ -104,3 +108,10 @@ Next Purple  +5
 Next Black  +2
 Next White  +7
 Caelus (dead)  +3
+----------------------------------------
+4th Forms
+----------------------------------------
+True Neptune  +8
+True Blanc  ++11
+True Vert  +1
+True Noire  +7
