@@ -1,13 +1,18 @@
+--a +x means a high x
+--a x means a neutral x
+--a -x emans a low x
+--a ++x means waifu grade
+
 Neptunia Franchise
 ----------------------------------------
 1st Forms
 ----------------------------------------
-Pururut  +19
+Pururut  ++19
 Pish  +6
 Baby Pish  +5
 Neptune  +8
 Nepgear  +3
-Uzume  +9
+Uzume  ++9
 Nepugia  +6
 Noire  +7
 Uni  +5
@@ -20,18 +25,18 @@ Baby IF  +9
 Compa  -12
 Child Compa  -15
 Baby Compa  -20
-Blanc  +11
+Blanc  ++11
 Ram  +6
 Rom  +7
 Vert  +1
 Rei  +16
 Segami  +7
-Game Gear  +9
+Game Gear  ++9
 Sega Saturn  +6
 Dreamcast  +1
 Mega Drive  +6
 Nepbike  +-?
-Moru  +10
+Moru  ++10
 Broccoli  +5
 Kei  -50
 Arfoire  +3
@@ -54,7 +59,7 @@ MarvelousAQL  +3
 5pb  +2
 Poona  +3
 Tsunemi  +8
-Blossom  +12
+Blossom  ++12
 Ryuka  +3
 Wyn  +4
 Lady Wac  -6
@@ -64,12 +69,15 @@ Vio  -3
 Sango  +4
 Little Rain  +6
 Yurina  +7
-DCD  +10
+DCD  ++10
 Fang  +7
 Eryn  +5
 Nisa  +7
 Kurome  +10
 Caelus (alive)  +7
+Falcom  +8
+Teen Falcom  +9
+Young Arfoire  +10
 ----------------------------------------
 2nd Forms
 ----------------------------------------
