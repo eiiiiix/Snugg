@@ -21,6 +21,7 @@ Nepugia
 Falcom
 Mini Histoire
 Game Gear
+Bugnet Nep
 Vert
 DCD
 Yurina
@@ -36,6 +37,7 @@ Spike
 Rom
 Baby IF
 Mina
+True Goddess
 Maga Drive
 Sega Saturn
 Dreamcast
@@ -47,6 +49,7 @@ Young Arfoire
 Tiara
 MAGES.
 Chika
+Croire
 MarvelousAQL
 Arfoire
 Broccoli
@@ -87,6 +90,7 @@ Iris Heart
 Blue Heart
 White Heart
 Green Heart
+True Goddess (HDD)
 Tiara (Fury Form)
 Caelus (HDD)
 Purple Heart
@@ -106,3 +110,10 @@ Next Purple
 Next Green
 Next Black
 Caelus (dead)
+----------------------------------------
+4th Forms
+----------------------------------------
+True Neptune
+True Vert
+True Blanc
+True Noire
