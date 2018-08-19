@@ -81,6 +81,12 @@ Young Arfoire  +10
 Croire  +9
 Bugnet Nep  +8
 True Goddess  +3
+Financier  +2
+The Brothers  -10
+Pirachu  -4
+Anonydeath (human)  +8
+Mr.Badd  -20
+Copypaste  -2
 ----------------------------------------
 2nd Forms
 ----------------------------------------
@@ -100,6 +106,8 @@ Tiara (Fury Form)  +8
 Dark Orange  -5
 Caelus (HDD)  -7
 True Goddess (HDD)  +5
+Arfoire (HDD) +6
+Anonydeath (mech)  -3
 ----------------------------------------
 3rd Forms
 ----------------------------------------
@@ -108,6 +116,7 @@ Next Purple  +5
 Next Black  +2
 Next White  +7
 Caelus (dead)  +3
+Arfoire (Momus) -8
 ----------------------------------------
 4th Forms
 ----------------------------------------
@@ -115,3 +124,8 @@ True Neptune  +8
 True Blanc  ++11
 True Vert  +1
 True Noire  +7
+Arfoire (eggplant)  -8
+----------------------------------------
+5th Forms
+----------------------------------------
+True Arfoire  +3
