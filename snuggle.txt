@@ -47,7 +47,7 @@ Lid                 +2
 Lee-Fi              +0
 Resta               +10
 Estelle             +7
-Ein Al              +9
+Ein Al             ++9
 Chika               +3
 RED                 -1
 MAGES.              +6
