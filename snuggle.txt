@@ -98,7 +98,7 @@ Orange Heart        -3
 White Heart         +10
 Pink Sister         +7
 Blue Sister         +4
-Black heart         -70
+Black Heart         -70
 Black Sister        -70
 Green Heart         -70
 Blue Heart         ++25
