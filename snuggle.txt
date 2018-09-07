@@ -4,193 +4,201 @@ Neptunia Franchise
 -
 1st Forms
 -
-Pururut				19++
-Pish				6+
-Baby Pish			5+
-Neptune				8+
-Nepgear				3+
-Uzume				9++
-Nepugia				6++
-Noire				7+
-Uni					5+
-Big Histy			7+
-Mini Histy			5+
-Mina				4+
-IF					10+
-Child IF			12+
-Baby IF				9+
-Compa				12-
-Child Compa			15-
-Baby Compa			20-
-Blanc				11++
-Ram					6+
-Rom					7+
-Vert				1+
-Rei					16++
-Segami				7+
-Game Gear			9++
-Sega Saturn			6+
-Dreamcast			1+
-Mega Drive			6+
-Nepbike				???
-Moru				10++
-Broccoli			5+
-Kei					50-
-Arfoire				3+
-Abnes				0
-Tamsoft				4+
-Dengekiko			5+
-Famitsu				7+
-Spike				4+
-Tiara				9+
-Lid					2+
-Lee-Fi				0+
-Resta				10+
-Estelle				7+
-Ein Al				9++
-Chika				3+
-RED					1-
-MAGES.				6+
-Ai					50-
-MarvelousAQL		3+
-5pb					2+
-Poona				3+
-Tsunemi				8+
-Blossom				12++
-Ryuka				3+
-Wyn					4+
-Lady Wac			6-
-Generia G			1+
-Saori				8+
-Vio					3-
-Sango				4+
-Little Rain			6+
-Yurina				7+
-DCD					10++
-Fang				7+
-Eryn				5+
-Nisa				7+
-Kurome				10+
-Caelus (alive)		7+
-Falcom				8+
-Teen Falcom			9+
-Young Arfoire		10+
-Crore				9+
-Bugnet Nep			8+
-True Goddess		3+
-Financier			2+
-The Brothers		10-
-Pirachu				4-
-Anonydeath (human)	8+
-Mr.Badd				20-
-Copypaste			2-
-Kaminuki Natsume	7+
-Lilia				10+
-Faust				12+
+Pururut					19++
+Pish					6+
+Baby Pish				5+
+Neptune					8+
+Nepgear					3+
+Uzume					9++
+Nepugia					6++
+Noire					7+
+Uni						5+
+Big Histy				7+
+Mini Histy				5+
+Mina					4+
+IF						10+
+Child IF				12+
+Baby IF					9+
+Compa					12-
+Child Compa				15-
+Baby Compa				20-
+Blanc					11++
+Ram						6+
+Rom						7+
+Vert					1+
+Rei						16++
+Segami					7+
+Game Gear				9++
+Sega Saturn				6+
+Dreamcast				1+
+Mega Drive				6+
+Nepbike					???
+Moru					10++
+Broccoli				5+
+Kei						50-
+Arfoire					3+
+Abnes					0
+Tamsoft					4+
+Dengekiko				5+
+Famitsu					7+
+Spike					4+
+Tiara					9+
+Lid						2+
+Lee-Fi					0+
+Resta					10+
+Estelle					7+
+Ein Al					9++
+Chika					3+
+RED						1-
+MAGES.					6+
+Ai						50-
+MarvelousAQL			3+
+5pb						2+
+Poona					3+
+Tsunemi					8+
+Blossom					12++
+Ryuka					3+
+Wyn						4+
+Lady Wac				6-
+Generia G				1+
+Saori					8+
+Vio						3-
+Sango					4+
+Little Rain				6+
+Yurina					7+
+DCD						10++
+Fang					7+
+Eryn					5+
+Nisa					7+
+Kurome					10+
+Caelus (alive)			7+
+Falcom					8+
+Teen Falcom				9+
+Young Arfoire			10+
+Crore					9+
+Bugnet Nep				8+
+True Goddess			3+
+Financier				2+
+The Brothers			10-
+Pirachu					4-
+Anonydeath (human)		8+
+Mr.Badd					20-
+Copypaste				2-
+Kaminuki Natsume		7+
+Lilia					10+
+Faust					12+
 -
 2nd Forms
 -
-Iris Heart			50++
-Purple Heart		3+
-Purple Sister		6+
-Yellow Heart		10-
-Orange Heart		3-
-White Heart1		0+
-Pink Sister			7+
-Blue Sister			4+
-Black Heart			70-
-Black Sister		70-
-Green Heart			70-
-Blue Heart			25++
-Tiara (Fury Form)	8+
-Dark Orange			5-
-Caelus (HDD)		7-
-True Goddess (HDD)	5+
-Arfoire (HDD)		6+
-Anonydeath (mech)	3-
+Iris Heart				50++
+Purple Heart			3+
+Purple Sister			6+
+Yellow Heart			10-
+Orange Heart			3-
+White Heart1			0+
+Pink Sister				7+
+Blue Sister				4+
+Black Heart				70-
+Black Sister			70-
+Green Heart				70-
+Blue Heart				25++
+Tiara (Fury Form)		8+
+Dark Orange				5-
+Caelus (HDD)			7-
+True Goddess (HDD)		5+
+Arfoire (Conversation)	4+
+Anonydeath (mech)		3-
 -
 3rd Forms
 -
-Next Green			140-
-Next Purple			5+
-Next Black			2+
-Next White			7+
-Caelus (dead)		3+
-Arfoire (Momus)		8-
+Next Green				140-
+Next Purple				5+
+Next Black				2+
+Next White				7+
+Caelus (dead)			3+
+Arfoire (HDD)			6+
 -
 4th Forms
 -
-True Neptune		8+
-True Blanc			11++
-True Vert			1+
-True Noire			7+
-Arfoire (eggplant)	8-
+True Neptune			8+
+True Blanc				11++
+True Vert				1+
+True Noire				7+
+Arfoire (Momus)			8-
 -
 5th Forms
 -
-True Arfoire		3+
+Arfoire (eggplant)		8-
+-
+6th Forms
+-
+True Arfoire			7++
+-
+7th Forms
+-
+True Arfoire (HDD)		3+
 ~
 Arpeggio of Blue Steel
 ~
 -
 1st Forms
 -
-Gunzou Chiaya		4+
-Komaki Daisaku		5+
-Stark Zordan		3-
-Osakabe Makie		3+
-Kamikage Ryuujirou	700--
-Shouzou Chihaya		700--
-Kotono Amaha		7+
-Saori Chihaya		8+
-Osakabe Makoto		1+
-Iori Watanuki		5++
-Shizuka Hodzumi		7+
-Kyouhei Kashihara	4+
-Maruri Hibiki		2+
-Sou Oribe			3+
-Francette			6+
-Herder Cruz			5-
-Kaede Nobuyoshi		700--
-Kisaragi			1+
-Kita Ryoukan		700--
-Komaki Daisaku		700--
-Lawrence Valentine	3+
-Romuald				700--
-Uragami Hiroshi		250--
-Sakura				0-
-Takao				10++
-Atago				6+
-Maya				4+
-Kongou				2-
-Hiei				2-
-Myoukou				2-
-Nachi				3+
-Haguro				5+
-Ashigara			7+
-Haruna				6++
-Kirishima			4+
-Choukai				2+
-Akashi				4+
-Bismarck (1)		5+
-Bismarck (2)		4+
-Hyuga				6-
-Ise					2++
-Lexington			0-
-Musashi				3-
-Nagato (1)			7+
-Nagato (2)			5+
-Mutsu				4+
-Yamato (1)			2+
-Yamato (2)			2+
-Yukikaze			5++
-Repulse				1+
-Vampire				1+
-Zuikaku				5+
-b-67 (Phantom)		16++
-I-201				10+
-I-400				1+
-I-401 (Iona)		7++
-I-402				5+
-I-501				9+
-U-2501				5+
+Gunzou Chiaya			4+
+Komaki Daisaku			5+
+Stark Zordan			3-
+Osakabe Makie			3+
+Kamikage Ryuujirou		700--
+Shouzou Chihaya			700--
+Kotono Amaha			7+
+Saori Chihaya			8+
+Osakabe Makoto			1+
+Iori Watanuki			5++
+Shizuka Hodzumi			7+
+Kyouhei Kashihara		4+
+Maruri Hibiki			2+
+Sou Oribe				3+
+Francette				6+
+Herder Cruz				5-
+Kaede Nobuyoshi			700--
+Kisaragi				1+
+Kita Ryoukan			700--
+Komaki Daisaku			700--
+Lawrence Valentine		3+
+Romuald					700--
+Uragami Hiroshi			250--
+Sakura					0-
+Takao					10++
+Atago					6+
+Maya					4+
+Kongou					2-
+Hiei					2-
+Myoukou					2-
+Nachi					3+
+Haguro					5+
+Ashigara				7+
+Haruna					6++
+Kirishima				4+
+Choukai					2+
+Akashi					4+
+Bismarck (1)			5+
+Bismarck (2)			4+
+Hyuga					6-
+Ise						2++
+Lexington				0-
+Musashi					3-
+Nagato (1)				7+
+Nagato (2)				5+
+Mutsu					4+
+Yamato (1)				2+
+Yamato (2)				2+
+Yukikaze				5++
+Repulse					1+
+Vampire					1+
+Zuikaku					5+
+b-67 (Phantom)			16++
+I-201					10+
+I-400					1+
+I-401 (Iona)			7++
+I-402					5+
+I-501					9+
+U-2501					5+
