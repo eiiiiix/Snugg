@@ -188,7 +188,9 @@ Repulse				1+
 Vampire				1+
 Zuikaku				5+
 b-67 (Phantom)		16++
+I-201				10+
 I-400				1+
 I-401 (Iona)		7++
 I-402				5+
+I-501				9+
 U-2501				5+
