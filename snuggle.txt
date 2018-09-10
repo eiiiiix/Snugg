@@ -87,6 +87,18 @@ Copypaste				2-
 Kaminuki Natsume		7+
 Lilia					10+
 Faust					12+
+Cave                    2+
+Gust                    3+
+K Sha                   5+
+S Sha                   5+
+C Sha                   4+
+B-Sha                   5+
+Yvorir                  90--
+Compile                 3+
+Dangly                  5+
+Deco                    4+
+CFW Trick               8--
+CFW Judge               8--
 -
 2nd Forms
 -
