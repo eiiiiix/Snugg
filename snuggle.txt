@@ -93,7 +93,7 @@ K Sha                   5+
 S Sha                   5+
 C Sha                   4+
 B-Sha                   5+
-Yvorir                  90--
+Yvorie                  90--
 Compile                 3+
 Dangly                  5+
 Deco                    4+
