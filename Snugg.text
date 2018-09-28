@@ -1,12 +1,12 @@
 Neptunia            Name                Rating              Url
 ---------------------------------------------------------------
-.C                   Chaos Form
-.F                   Festive/alt
-.B                   Bridal
-.f                   Fury Form
-.*                   Maker
+.nepC                   Chaos Form
+.nepF                   Festive/alt
+.nepB                   Bridal
+.nepf                   Fury Form
+.nep*                   Maker
 ---------------------------------------------------------------
-.F
+.nepF
 Form 0              Pururuto            19++
 Form 1              Iris Heart          50++
 Form 2              Light Iris          49++
@@ -16,7 +16,7 @@ Form 0              Baby Pishe          5+
 Form 1              Pishe               6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%94%E3%83%BC%E5%AD%90
 Form 2              Yellow Heart        10-                 https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%88%A5%E6%AC%A1%E5%85%83%E3%81%AE%E5%A5%B3%E7%A5%9E%EF%BC%BD%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%88
 
-.C
+.nepC
 Form 0              Bugnet Nep          8+
 Form 1              Neptune             8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8D%E3%83%97%E5%AD%90%EF%BC%88%E2%98%865%EF%BC%89
 Form 2              Purple Heart        3+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E9%A1%95%E7%8F%BE%E8%80%85%EF%BC%BD%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%88
@@ -33,7 +33,7 @@ Form 12             Light Purple        10+                 https://nepnep-conne
 Form 13             Christmas Neptune   11+                 http://www.compileheart.com/neptune/blog/nep_santa1.jpg
 Form 14             Newyears Purple     13+                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%88%E3%80%94%E6%96%B0%E6%98%A5%E3%80%95
 
-.C.F
+.nepC.nepF
 Form 0              Nepgear             3+
 Form 1              Purple Sister       6+
 Form 2              Nepgya              3+
@@ -51,7 +51,7 @@ Form 1              Orange Heart        3-
 
 Form 0              Nepugia             6++
 
-.C.F.B
+.nepC.nepF.nepB
 Form 0              Noire               7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%AE%E3%82%8F%E3%81%AE%E3%82%8F%EF%BC%88%E2%98%865%EF%BC%89
 Form 1              Black Heart         70--
 Form 2              Next Black          2+                  https://nepnep-connect.wikiwiki7.com/index.php?NEXT%20BLACK
@@ -64,7 +64,7 @@ Form 8              Chaos Noire         7+                  https://nepnep-conne
 Form 9              Chaos Black         8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%8F%E3%83%BC%E3%83%88%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 10             Light Black         6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%9B%9B%E5%A5%B3%E7%A5%9E%EF%BD%B5%EF%BE%9D%EF%BE%97%EF%BD%B2%EF%BE%9D%EF%BC%BD%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%8F%E3%83%BC%E3%83%88
 
-.C.B
+.nepC.nepB
 Form 0              Uni                 5+
 Form 1              Black Sister        70-
 Form 2              Bridal Uni          6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89%EF%BC%BD%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC
@@ -77,21 +77,21 @@ Form 1              Mini Histy          5+
 
 Form 0              Mina                4+
 
-.*
+.nep*
 Form 0              Baby IF             9+
 Form 1              Child IF            12+                 https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E7%A5%9E%E6%AC%A1%E5%85%83%EF%BC%BD%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%95
 Form 2              IF                  10+
 Form 3              Awakened IF         9+
 Form 4              Gym IF              8+                  http://www.compileheart.com/neptune/blog/if_taisougi1.jpg
 
-.*
+.nep*
 Form 0              Compile             3+
 Form 1              Baby Compa          20-
 Form 2              Child Compa         15-                 https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E7%A5%9E%E6%AC%A1%E5%85%83%EF%BC%BD%E3%82%B3%E3%83%B3%E3%83%91
 Form 3              Compa               12-
 Form 4              Awakened Compa      19-
 
-.C.F
+.nepC.nepF
 Form 0              Blanc               11++                https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%B6%E3%82%89%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%EF%BC%88%E2%98%86%EF%BC%95%EF%BC%89
 Form 1              White Heart         10+
 Form 2              Next White          7+                  https://nepnep-connect.wikiwiki7.com/index.php?NEXT%20WHITE
@@ -105,21 +105,21 @@ Form 9              Chaos Blanc         12++                https://nepnep-conne
 Form 10             Chaos White         11+                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8F%E3%83%BC%E3%83%88%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 11             Light White         12++                https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%9B%9B%E5%A5%B3%E7%A5%9E%EF%BD%B5%EF%BE%9D%EF%BE%97%EF%BD%B2%EF%BE%9D%EF%BC%BD%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8F%E3%83%BC%E3%83%88
 
-.C.F
+.nepC.nepF
 Form 0              Ram                 6+
 Form 1              Pink Sister         7+
 Form 2              Chaos Ram           7+
 Form 3              Chaos Pink          8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 4              Summer Ram          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
 
-.C.F
+.nepC.nepF
 Form 0              Rom                 7+
 Form 1              Cyan Sister         4+
 Form 2              Chaos Rom           5+
 Form 3              Chaos Cyan          5+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%AD%E3%83%A0%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 4              Summer Rom          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
 
-.C.F.B
+.nepC.nepF.nepB
 Form 0              Vert                1++                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%B9%E3%82%8B%E3%81%B9%E3%82%8B%EF%BC%88%E2%98%86%EF%BC%95%EF%BC%89
 Form 1              Green Heart         70-
 Form 2              Next Green          140-                https://nepnep-connect.wikiwiki7.com/index.php?NEXT%20GREEN
@@ -133,13 +133,13 @@ Form 9              Chaos Vert          5++                 https://nepnep-conne
 Form 10             Chaos Green         2+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 11             Light Green         2+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%9B%9B%E5%A5%B3%E7%A5%9E%EF%BD%B5%EF%BE%9D%EF%BE%97%EF%BD%B2%EF%BE%9D%EF%BC%BD%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88
 
-.C
+.nepC
 Form 0              Rei                 16++
 Form 1              Blue Heart          25++
 Form 2              Chaos Blue          17++
 Form 3              True Rei            16++
 
-.*
+.nep*
 Form 0              Segami              7+
 
 Form 0              GameGear            9++
@@ -152,7 +152,7 @@ Form 0              Mega Drive          6+
 
 Form 0              Moru                10++
 
-.*
+.nep*
 Form 0              Broccoli            5+
 
 Form 0              Kei                 50-
@@ -168,7 +168,7 @@ Form 7              True Arfoire HDD    3+
 
 Form 0              Abnes               0
 
-.*
+.nep*
 Form 0              Tamsoft             4+
 Form 1              Awakened Tamsoft    4+
 
@@ -178,10 +178,10 @@ Form 1              Combat Dengekiko    4+
 Form 0              Famitsu             7+
 Form 1              Combat Famitsu      6+
 
-.*
+.nep*
 Form 0              Sting               4+
 
-.C.F
+.nepC.nepF
 Form 0              Tiara               9+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%AE%BF%E5%91%BD%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%BD%E3%83%86%E3%82%A3%E3%82%A2%E3%83%A9
 Form 1              Tiara Fury Form     8+
 Form 2              Chaos Tiara         9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%86%E3%82%A3%E3%82%A2%E3%83%A9%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
@@ -199,18 +199,18 @@ Form 0              Ein Al              9++
 
 Form 0              Chika               3+
 
-.*
+.nep*
 Form 0              RED                 1-
 
-.*
+.nep*
 Form 0              MAGES.              6+
 
 Form 0              Ai                  50-
 
-.*
+.nep*
 Form 0              MarvelousAQL        3+
 
-.*
+.nep*
 Form 0              5pb                 2+
 
 Form 0              Poona               3+
@@ -235,15 +235,15 @@ Form 0              Sango               4+
 
 Form 0              Little Rain         6+
 
-.F
+.nepF
 Form 0              Yurina              7+
 Form 1              Gold Heart?         8+
 Form 2              Summer Yurina       7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%A6%E3%83%AA%E3%83%BC%E3%83%8A%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
 
-.C
+.nepC
 Form 0              DCD                 10++
 
-.F.f
+.nepF.nepf
 Form 0              Fang                7+
 Form 1              Summer Fang         9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
 Form 2              Fang Fury Form      8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B0%E3%80%94FF%E3%80%95
@@ -252,7 +252,7 @@ Form 0              Kurisu              ?????
 
 Form 0              Ikusu               ?????
 
-.F
+.nepF
 Form 0              Arin                7+
 Form 1              Arin Memories       7+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E8%A8%98%E6%86%B6%E5%96%AA%E5%A4%B1%E3%81%AE%E5%A6%96%E8%81%96%EF%BC%BD%E3%82%A2%E3%83%AA%E3%83%B3
 Form 2              Fateful Arin        7+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E9%81%8B%E5%91%BD%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%BD%E3%82%A2%E3%83%AA%E3%83%B3
@@ -261,7 +261,7 @@ Form 0              Ameiru              5+
 
 Form 0              Ma                  5+
 
-.B
+.nepB
 Form 0              Otoha               6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E8%A9%A0%E5%B7%AB%E5%A5%B3%EF%BC%BD%E3%82%AA%E3%83%88%E3%83%8F
 Form 1              Bridal Otoha        6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89%EF%BC%BD%E3%82%AA%E3%83%88%E3%83%8F
 
@@ -269,7 +269,7 @@ Form 0              Luanna              7+
 
 Form 0              Eyrn                5+
 
-.*
+.nep*
 Form 0              Nisa                7+
 
 Form 0              Kurome              10+
@@ -283,7 +283,7 @@ Form 0              Caelus              7+
 Form 1              Caelus HDD          7-
 Form 2              Caelus Dead         3+
 
-.*
+.nep*
 Form 0              Teen Falcom         9+
 Form 1              Adult Falcom        8+
 
@@ -310,11 +310,11 @@ Form 0              Mr.Badd             20-
 
 Form 0              Copypaste           2-
 
-.F
+.nepF
 Form 0              Kaminuki Natsume    7+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%AE%E3%82%A4%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%82%BA%EF%BC%BD%E7%A5%9E%E8%B2%AB%E3%83%8A%E3%83%84%E3%83%A1
 Form 1              Brave Kaminuki      6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96%E3%82%B9%E3%82%AD%E3%83%B3%EF%BC%BD%E7%A5%9E%E8%B2%AB%E3%83%8A%E3%83%84%E3%83%A1
 
-.C.F.B
+.nepC.nepF.nepB
 Form 0              Lilia               10+                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AA%E3%83%AA%E3%82%A2
 Form 1              Bridal Lilia        9+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89%EF%BC%BD%E3%83%AA%E3%83%AA%E3%82%A2
 Form 2              Lilia Chaos Form    2+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AA%E3%83%AA%E3%82%A2%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
@@ -324,10 +324,10 @@ Form 0              Faust               12+                 https://nepnep-conne
 Form 1              Bridal Faust        13+                 https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89%EF%BC%BD%E3%83%95%E3%82%A1%E3%82%A6%E3%82%B9%E3%83%88
 Form 2              Chaos Faust         12+                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%95%E3%82%A1%E3%82%A6%E3%82%B9%E3%83%88%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 
-.*
+.nep*
 Form 0              Cave                2+
 
-.*
+.nep*
 Form 0              Gust                3+
 
 Form 0              K-Sha               5+
@@ -336,7 +336,7 @@ Form 1              Gold K              4+
 Form 0              S-Sha               6+
 Form 1              Gold S              9+
 
-.*
+.nep*
 Form 0              C-Sha               4+
 Form 1              Gold C              4+
 
@@ -350,7 +350,7 @@ Form 0              Yvorie              90--
 
 Form 0              Dangly              5+
 
-.*
+.nep*
 Form 0              Deco                4+
 
 Form 0              CFW Trick           8--
@@ -363,15 +363,15 @@ Form 0              CFW Magic           8--
 
 Form 0              Prototype           2-
 
-.*
+.nep*
 Form 0              Tekken              5+
 
 Form 0              Kuma                6+
 
-.*
+.nep*
 Form 0              CyberConnect2       10+
 
-.*
+.nep*
 Form 0              Stella              7+
 -
 Form 0              Felis               9999+
@@ -421,7 +421,7 @@ Form ?              Surara              2+
 
 Form 0              Kukei               7+
 
-.*
+.nep*
 Form ?              Artisan             5+
 
 Form 0?             Affimojas           20--
@@ -490,7 +490,7 @@ Form 0              Horyuchu            NO WTF IS THIS
 
 Form 0              Firewall (PC Guard) 3+
 
-.C.F
+.nepC.nepF
 Form 0              Ruanna              6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E7%B4%94%E6%BD%94%E4%B9%99%E5%A5%B3%EF%BC%BD%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%8A
 Form 1              Chaos Ruanna        7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%8A%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 2              Halloween Ruanna    8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%8A%E3%80%94%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%80%95
@@ -519,52 +519,52 @@ Form 1?             Dogoo Lady          4+
 
 Form 0              Zolgelicoff         2-
 
-.*
+.nep*
 Form 0              Furapura            6+
 
-.*
+.nep*
 Form 0              Million Arthur      7+
 
-.*
+.nep*
 Form 0              God Eater (human)   9++++++++++++++++++
 Form 1              God Eater           9++++++++++++++++++
 Form 2              God Eater(infection)9++++++++++++++++++
 Form 3              God Eater (god)     9++++++++++++++++++
 Form 4              God Eater (material)9++++++++++++++++++
 
-.*
+.nep*
 Form 0              Nitroplus           6+
 
 Form 0?             Umio                0
 
-.F
+.nepF
 Form 0              Urushi              4+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%AE%E3%82%A4%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%82%BA%EF%BC%BD%E6%BC%86%E5%8E%9F%E3%83%9B%E3%82%BF%E3%83%AB
 Form 1              Angel Urushi        5+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%EF%BC%BD%E6%BC%86%E5%8E%9F%E3%83%9B%E3%82%BF%E3%83%AB
 
 Form 0              Nene                6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8D%E3%83%8D
 
-.C
+.nepC
 Form 0              Aria                5+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%A2%E3%83%AA%E3%82%A2
 Form 1              Chaos Aria          2+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%A2%E3%83%AA%E3%82%A2%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 
 Form 0              Kanadeko            7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%AB%E3%83%8A%E3%83%87%E3%82%B3
 
-.C
+.nepC
 Form 0              Youko               6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%A8%E3%83%BC%E3%82%B3
 Form 1              Chaos Youko         7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%A8%E3%83%BC%E3%82%B3%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 
-.C
+.nepC
 Form 0              Ashmedia            2-                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%A2%E3%82%B7%E3%83%A5%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2
 Form 1              Chaos Ashmedia      4-                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%A2%E3%82%B7%E3%83%A5%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 
-.C.F
+.nepC.nepF
 Form 0              Ruche               5+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%82%B2%E6%85%A2%E3%81%AE%E9%AD%94%E7%8E%8B%EF%BC%BD%E3%83%AB%E3%82%A5%E3%82%B7%E3%82%A7
 Form 1              Chaos Ruche         6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AB%E3%82%A5%E3%82%B7%E3%82%A7%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 2              Summer Ruche        7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AB%E3%82%A5%E3%82%B7%E3%82%A7%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
 
 Form 0              Perpell             3+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9A%E3%83%AB%E3%83%9A%E3%83%AB
 
-.C
+.nepC
 Form 0              Mammon              5+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9E%E3%83%A2%E3%83%B3
 Form 0              Chaos Mammon        4+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9E%E3%83%A2%E3%83%B3%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 
@@ -574,13 +574,13 @@ Form 0              Levia               20++                https://nepnep-conne
 
 Form 0              Zeabolos            2+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%BC%E3%82%A2%E3%83%9C%E3%83%AD%E3%82%B9
 
-.f
+.nepf
 Form 0              Zank                0                   https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%B6%E3%83%B3%E3%82%AF
 Form 1              Zank Fury Form      10-                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%B6%E3%83%B3%E3%82%AF%E3%80%94FF%E3%80%95
 
 Form 0              Kyui                9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%AD%E3%83%A5%E3%82%A4
 
-.C
+.nepC
 Form 0              Hara                3+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%A6%96%E8%81%96%E7%A0%94%E7%A9%B6%E5%AE%B6%EF%BC%BD%E3%83%8F%E3%83%BC%E3%83%A9%E3%83%BC
 Form 1              Chaos Hara          2+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8F%E3%83%BC%E3%83%A9%E3%83%BC%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 
@@ -590,13 +590,13 @@ Form 0              Pippin              No                  https://nepnep-conne
 
 Form 0              Souji               9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%BD%E3%82%A6%E3%82%B8
 
-.C
+.nepC
 Form 0              Eforu               10++                https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%A8%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB
 Form 1              Chaos Eforu         10++                https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%A8%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 
 Form 0              Karin               7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E6%9E%9C%E6%9E%97
 
-.C.f.F
+.nepC.nepf.nepF
 Form 0              Mariano             4+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%83%89%E3%83%AB%E3%83%95%E3%82%A1%E5%9B%9B%E5%A4%A9%E7%8E%8B%EF%BC%BD%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8E
 Form 1              Chaos Mariano       5+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8E%E3%80%94%E3%82%AB%E3%82%AA%E3%82%B9%E3%80%95
 Form 2              Mariano Fury Form   0-                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8E%E3%80%94FF%E3%80%95
@@ -608,13 +608,13 @@ Form 0              Garudo              1+                  https://nepnep-conne
 
 Form 0              Marisa              0                   https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9E%E3%83%AA%E3%82%B5
 
-.F
+.nepF
 Form 0              Roro                1-                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%AD
 Form 1              Summer Roro         1-                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%AD%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
 
 Form 0              Apollones           6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%8D%E3%82%B9
 
-.f
+.nepf
 Form 0              Paiga               0--                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%82%A4%E3%82%AC
 Form 1              Paiga Fury Form     9--                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%82%A4%E3%82%AC%E3%80%94FF%E3%80%95
 
@@ -712,17 +712,17 @@ Form 0              Tauros              2+                  https://nepnep-conne
 
 Form 0              Momoka              6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%A2%E3%83%A2%E3%82%AB
 
-.F
+.nepF
 Form 0              Saionji             7+
 Form 1              Magic Saionji       7+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%EF%BC%BD%E8%A5%BF%E5%9C%92%E5%AF%BA%E3%83%81%E3%83%A8
 
-.F
+.nepF
 Form 0              Kirigaku Mikuri     2+
 Form 1              Power Kirigaku      2+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%B3%EF%BC%BD%E9%9C%A7%E9%9A%A0%E3%83%9F%E3%82%AF%E3%83%AA
 
 Form 0              Hard Magic?         3-                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89
 
-.f
+.nepf
 Form 1              Bernard Fury Form   9-                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%89%E3%80%94FF%E3%80%95
 
 Form 0              Line Iris?          2+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%AC%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2
@@ -754,3 +754,234 @@ Form 0              Saionji Chiyo       6+                  https://nepnep-conne
 Form 0              Kirigaku Mikuri     7+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%AE%E3%82%A4%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%82%BA%EF%BC%BD%E9%9C%A7%E9%9A%A0%E3%83%9F%E3%82%AF%E3%83%AA
 
 Form 0?             Ziege               77---               https://vignette.wikia.nocookie.net/hyperdimensionneptunia/images/4/40/Ziege.%28Choujigen.Game.Neptune%29.full.1659705.jpg/revision/latest?cb=20140302001343
+
+
+Ars Nova            Name                Rating              Url
+---------------------------------------------------------------
+Form 0              Gunzou Chiaya       4+
+
+Form 0              Komaki Daisaku      5+
+
+Form 0              Stark Zordan        3-
+
+Form 0              Osakabe Makie       3+
+
+Form 0              Kamikage Ryuujirou  700--
+
+Form 0              Shouzou Chihaya     700--
+
+Form 0              Kotono Amaha        7+
+
+Form 0              Saori Chihaya       8+
+
+Form 0              Osakabe Makoto      1+
+
+Form 0              Iori Watanuki       5++
+
+Form 0              Shizuka Hodzumi     7+
+
+Form 0              Kyouhei Kashihara   4+
+
+Form 0              Maruri Hibiki       2+
+
+Form 0              Sou Oribe           3+
+
+Form 0              Francette           6+
+
+Form 0              Herder Cruz         5-
+
+Form 0              Kaede Nobuyoshi     700--
+
+Form 0              Kisaragi            1+
+
+Form 0              Kita Ryoukan        700--
+
+Form 0              Komaki Daisaku      700--
+
+Form 0              Lawrence Valentine  3+
+
+Form 0              Romuald             700--
+
+Form 0              Uragami Hiroshi     250--
+
+Form 0              Sakura              0-
+
+Form 0              Takao               10++
+
+Form 0              Atago               6+
+
+Form 0              Maya                4+
+
+Form 0              Kongou              2-
+
+Form 0              Hiei                2-
+
+Form 0              Myoukou             2-
+
+Form 0              Nachi               3+
+
+Form 0              Haguro              5+
+
+Form 0              Ashigara            7+
+
+Form 0              Haruna              6++
+
+Form 0              Kirishima           4+
+
+Form 0              Choukai             2+
+
+Form 0              Akashi              4+
+
+Form 0              Bismarck (1)        5+
+
+Form 0              Bismarck (2)        4+
+
+Form 0              Hyuuga              6-
+
+Form 0              Ise                 2++
+
+Form 0              Lexington           0-
+
+Form 0              Musashi             3-
+
+Form 0              Nagato (1)          7+
+
+Form 0              Nagato (2)          5+
+
+Form 0              Mutsu               4+
+
+Form 0              Yamato (1)          2+
+
+Form 0              Yamato (2)          2+
+
+Form 0              Yukikaze            5++
+
+Form 0              Repulse             1+
+
+Form 0              Vampire             1+
+
+Form 0              Zuikaku             5+
+
+Form 0              b-67 (Phantom)      16++
+
+Form 0              I-201               10+
+
+Form 0              I-400               1+
+
+Form 0              I-401 (Iona)        7++
+
+Form 0              I-402               5+
+
+Form 0              I-501               9+
+
+Form 0              U-2501              5+
+
+
+God Eater           Name                Rating              Url
+---------------------------------------------------------------
+Form 1              Lindow Amamiya      6++
+Form 2              Lindow (Aragami inf)6++
+-
+Form 0?             Ren Amamiya         5+
+
+Form 1              Sakuya Amamiya      4+
+
+Form 1              Tsubaki Amamiya     5+
+Form 2              Tsubaki Amamiya     9-
+
+Form 0?             Soma Schicksal      7+
+
+Form 0?             Shio                6+
+
+Form 1              Eric der Vogelweid  3-
+
+Form 0              Erina der Vogelweid 6+
+
+Form 1              Kota Fujiki         5+
+
+Form 0              Young Alisa         4+
+Form 1              Alisa               6+
+
+Form 3?             Johannes            99----
+
+Form 0              Aisha               3+
+
+Form 1?             Paylor Sakaki       5++
+
+Form 1              Tatsumi O'Mori      4+
+
+Form 1              Brendan Bardell     3+
+
+Form 1              Canon               8++
+
+Form 1              Shun                3-
+
+Form 1              Karel               2+
+
+Form 1              Gina                6+
+
+Form 1              Annette             4+
+
+Form 1              Federico            5+
+
+Form 0              Hibari              4+
+
+Form 0              Rikka Kusunoki      6++
+
+Form 1              Gen                 5+
+
+Form 0              Alisa's doctor      Nope
+
+Form 0              Teruomi             5+
+
+Form 0              Fran                6+
+
+Form 0              Urara               7+
+
+Form 1              Rosette             8+
+
+Form 1              Silva               5+
+
+Form 1              Mizuki              4+
+
+Form 1              Edger               3+
+
+Form 1              Jake                5+
+
+Form 1              Yuu Kannagi         6+
+
+Form 1              Aki Tamashiro       7+
+
+Form 1              Hiro Kamui          8+
+
+Form 1              Julius Visconti     6++
+Form 2              Opener              2+
+
+Form 4?             Rachel              NO
+Form 5?             Closer
+
+Form 0              Dr. Leah            4+
+
+Form 0?             Livie               7++
+
+Form 1              Ciel                6+
+
+Form 1              Gilbert             4+
+
+Form 1?             Nana Kozuki         7++
+
+Form 1              Romeo Leoni (RIP)   5+
+
+Form 1              Emil                4+
+
+Form 1              Haruomi             5+
+
+Form 2?             Kigurumi (male???)  ???
+
+Form 1?             Yoshino Kozuki      9+
+
+Form 1              Kate Laurie         4+
+
+Form 1              Carrie Yu           KNEE SOCKS
+
+Form 1              Camille Rembrandt   6+
