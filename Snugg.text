@@ -35,6 +35,7 @@ Form 14             Christmas Neptune   11+                 http://www.compilehe
 Form 15             Newyears Purple     13+                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%88%E3%80%94%E6%96%B0%E6%98%A5%E3%80%95
 Form 16             Ghost Nep           ?
 Form 17             Corrupted Neptune   8+
+Form 18             Shrine Nep          9+
 
 .nepC.nepF
 Form 0              Nepgear             3+
@@ -69,7 +70,7 @@ Form 10             Light Black         6+                  https://nepnep-conne
 Form 11             Christmas Noire     8+
 Form 12             Newyears Noire      6+
 Form 13             Sadist Noire        7+
-
+Form 14             Shrine Noire        7+
 .nepC.nepB
 Form 0              Uni                 5+
 Form 1              Black Sister        70-
@@ -112,6 +113,7 @@ Form 10             Chaos White         11+                 https://nepnep-conne
 Form 11             Light White         12++                https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%9B%9B%E5%A5%B3%E7%A5%9E%EF%BD%B5%EF%BE%9D%EF%BE%97%EF%BD%B2%EF%BE%9D%EF%BC%BD%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8F%E3%83%BC%E3%83%88
 Form 12             Predator Blanc      10++
 Form 13             Christmas Blanc     12++
+Form 14             Shrine Blanc        11++
 
 .nepC.nepF
 Form 0              Ram                 6+
@@ -146,7 +148,7 @@ Form 12             Christmas Vert      3++
 Form 13             Santa Vert          2++
 Form 14             Mexican Vert        1++
 Form 15             Newyears Vert       2++
-
+Form 16             Shrine Vert         1++
 .nepC
 Form 0              Rei                 16++
 Form 1              Blue Heart          25++
