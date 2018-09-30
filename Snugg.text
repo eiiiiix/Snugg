@@ -34,6 +34,7 @@ Form 13             Light Purple        10+                 https://nepnep-conne
 Form 14             Christmas Neptune   11+                 http://www.compileheart.com/neptune/blog/nep_santa1.jpg
 Form 15             Newyears Purple     13+                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%88%E3%80%94%E6%96%B0%E6%98%A5%E3%80%95
 Form 16             Ghost Nep           ?
+Form 17             Corrupted Neptune   8+
 
 .nepC.nepF
 Form 0              Nepgear             3+
@@ -65,6 +66,9 @@ Form 7              Guardian Noire      7+
 Form 8              Chaos Noire         7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 9              Chaos Black         8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%8F%E3%83%BC%E3%83%88%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 10             Light Black         6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%9B%9B%E5%A5%B3%E7%A5%9E%EF%BD%B5%EF%BE%9D%EF%BE%97%EF%BD%B2%EF%BE%9D%EF%BC%BD%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%8F%E3%83%BC%E3%83%88
+Form 11             Christmas Noire     8+
+Form 12             Newyears Noire      6+
+Form 13             Sadist Noire        7+
 
 .nepC.nepB
 Form 0              Uni                 5+
@@ -107,13 +111,15 @@ Form 9              Chaos Blanc         12++                https://nepnep-conne
 Form 10             Chaos White         11+                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8F%E3%83%BC%E3%83%88%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 11             Light White         12++                https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%9B%9B%E5%A5%B3%E7%A5%9E%EF%BD%B5%EF%BE%9D%EF%BE%97%EF%BD%B2%EF%BE%9D%EF%BC%BD%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8F%E3%83%BC%E3%83%88
 Form 12             Predator Blanc      10++
+Form 13             Christmas Blanc     12++
 
-.nepC.nepF
+.nepC.nepF/
 Form 0              Ram                 6+
 Form 1              Pink Sister         7+
 Form 2              Chaos Ram           7+
 Form 3              Chaos Pink          8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 4              Summer Ram          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
+Form 5              Christmas Ram       7+
 
 .nepC.nepF
 Form 0              Rom                 7+
@@ -121,6 +127,7 @@ Form 1              Cyan Sister         4+
 Form 2              Chaos Rom           5+
 Form 3              Chaos Cyan          5+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%AD%E3%83%A0%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 4              Summer Rom          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
+Form 5              Christmas Rom       8+
 
 .nepC.nepF.nepB
 Form 0              Vert                1++                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%B9%E3%82%8B%E3%81%B9%E3%82%8B%EF%BC%88%E2%98%86%EF%BC%95%EF%BC%89
@@ -135,6 +142,10 @@ Form 8              Guardian Vert       1++
 Form 9              Chaos Vert          5++                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%99%E3%83%BC%E3%83%AB%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 10             Chaos Green         2+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 11             Light Green         2+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%9B%9B%E5%A5%B3%E7%A5%9E%EF%BD%B5%EF%BE%9D%EF%BE%97%EF%BD%B2%EF%BE%9D%EF%BC%BD%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88
+Form 12             Christmas Vert      3++
+Form 13             Santa Vert          2++
+Form 14             Mexican Vert        1++
+Form 15             Newyears Vert       2++
 
 .nepC
 Form 0              Rei                 16++
