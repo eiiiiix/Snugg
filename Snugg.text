@@ -5,6 +5,7 @@ Neptunia            Name                Rating              Url
 .nepB                   Bridal
 .nepf                   Fury Form
 .nep*                   Maker
+.nepA                   ASIC
 ---------------------------------------------------------------
 .nepF
 Form 0              Pururuto            19++
@@ -36,6 +37,7 @@ Form 15             Newyears Purple     13+                 https://nepnep-conne
 Form 16             Ghost Nep           ?
 Form 17             Corrupted Neptune   8+
 Form 18             Shrine Nep          9+
+Form 19             Spy Nep
 
 .nepC.nepF
 Form 0              Nepgear             3+
@@ -71,16 +73,21 @@ Form 11             Christmas Noire     8+
 Form 12             Newyears Noire      6+
 Form 13             Sadist Noire        7+
 Form 14             Shrine Noire        7+
-.nepC.nepB
+Form 15             Spy Noire           8+
+
+.nepC.nepB.nepF
 Form 0              Uni                 5+
 Form 1              Black Sister        70-
 Form 2              Bridal Uni          6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89%EF%BC%BD%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC
 Form 3              Outing              5+
 Form 4              Chaos Uni           4+
 Form 5              Chaos Black (2)     6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
+Form 6              Spy Uni             7+
+Form 7              Christmas uni
 
 Form 0              Big Histy           7+
 Form 1              Mini Histy          5+
+Form 2              Drill Srgt. Histy   4+
 
 Form 0              Mina                4+
 
@@ -149,6 +156,8 @@ Form 13             Santa Vert          2++
 Form 14             Mexican Vert        1++
 Form 15             Newyears Vert       2++
 Form 16             Shrine Vert         1++
+Form 17             Spy Vert            2++
+
 .nepC
 Form 0              Rei                 16++
 Form 1              Blue Heart          25++
@@ -173,14 +182,16 @@ Form 0              Broccoli            5+
 
 Form 0              Kei                 50-
 
+.nepA.nepF
 Form 0              Mini Arf            10+
 Form 1              Arfoire/Eno         3+
 Form 2              Conversation        4+
 Form 3              Arfoire HDD         6+
 Form 4              Momus/DOS           8-
 Form 5              Eggplant Goddess    8-
-Form 6              True Arfoire        7++
-Form 7              True Arfoire HDD    3+
+Form 6              Christmas Arf       5+
+Form 7              True Arfoire        7++
+Form 8              True Arfoire HDD    3+
 
 Form 0              Abnes               0
 
@@ -314,10 +325,27 @@ Form 0              Older Brother       10-
 
 Form 0              Younger Brother     10-
 
+.nepA
 Form 0              Pirachu             4-
 Form 1              Mascot              4-
 
-Form 0              Linda               4+
+.nepA
+Form 0              Phonychu            4-
+
+.nepA
+Form 0              Resellchu           4-
+
+.nepA
+Form 0              Uploadchu           4-
+
+.nepA
+Form 0              Camerachu           4-
+
+.nepA
+Form 0              Chucook             5-
+
+.nepA
+Form 0              Linda(fuk u nepgear)4+
 
 Form 0              Anonydeath (human)  8+
 Form 1              Anonydeath (mech)   3-
@@ -783,6 +811,8 @@ Form 0              G-II Bots           1--
 Form 1              G-II Bots           1--
 
 Form 0              Old Man             1+
+
+Form 0              Mustached Man       5+
 
 
 Ars Nova            Name                Rating              Url
