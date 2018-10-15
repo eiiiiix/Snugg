@@ -37,7 +37,9 @@ Form 15             Newyears Purple     13+                 https://nepnep-conne
 Form 16             Ghost Nep           ?
 Form 17             Corrupted Neptune   8+
 Form 18             Shrine Nep          9+
-Form 19             Spy Nep
+Form 19             Spy Nep             8+
+Form 20             Boat Nep            8+
+Form 21             Oath Nep            7+
 
 .nepC.nepF
 Form 0              Nepgear             3+
@@ -74,6 +76,8 @@ Form 12             Newyears Noire      6+
 Form 13             Sadist Noire        7+
 Form 14             Shrine Noire        7+
 Form 15             Spy Noire           8+
+Form 16             Boat Noire          8+
+Form 17             Oath Noire          7+
 
 .nepC.nepB.nepF
 Form 0              Uni                 5+
@@ -121,6 +125,8 @@ Form 11             Light White         12++                https://nepnep-conne
 Form 12             Predator Blanc      10++
 Form 13             Christmas Blanc     12++
 Form 14             Shrine Blanc        11++
+Form 15             Boat Blanc          11++
+Form 16             Oath Blanc          11++
 
 .nepC.nepF
 Form 0              Ram                 6+
@@ -157,6 +163,8 @@ Form 14             Mexican Vert        1++
 Form 15             Newyears Vert       2++
 Form 16             Shrine Vert         1++
 Form 17             Spy Vert            2++
+Form 18             Boat Vert           1++
+Form 19             Oath Vert           1++
 
 .nepC
 Form 0              Rei                 16++
@@ -1005,9 +1013,19 @@ Form 1              Silva               5+
 
 Form 1              Mizuki              4+
 
-Form 1              Edger               3+
-
 Form 1              Jake                5+
+
+Form 0              Edgar               3+
+
+Form 0              Maria               4+
+
+Form 0              Robert              2-
+
+Form 0              Jessy               6+
+
+Form 1              Markus              3-
+
+Form 0              George Bagman       6--
 
 Form 1              Yuu Kannagi         6+
 
