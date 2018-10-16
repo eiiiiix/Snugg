@@ -1,0 +1,102 @@
+cave story
+
+health 0x1c 0x20
+
+equips 0x2c
+01 - booster 0.8
+02 - nothing
+12 - nothing
+22 - booster 2.0
+32 - booster 2.0
+42 - mimiga mask
+52 - mimiga mask
+62 - mimiga mask and booster 2.0
+63 - mimiga mask whimsical star and booster 2.0
+72 - mimiga mask and booster 2.0
+82 - nothing
+92 - nothing
+a2 - booster 2.0
+f3 - mimiga mask air tank whimsical star and booster 2.0
+
+maps 0x8
+
+00 - empty room, no tiles
+01 - arth house
+02 - egg corridor
+03 - egg 00 room
+04 - egg 06
+05 - missile launcher room
+06 - bushlands
+07 - santas house
+08 - chakos house
+09 - labr 1
+0a - sandzone
+0d - startzone
+0f - fish
+12 - opening cutscene/shelter
+14 - savepoint
+15 - sideroom
+1f - iornhead
+26 - labr 2
+2a - labr shop
+35 - outer edge? (i spawned in a wall but i think thats the outside music and colours)
+3f - final cave
+40 - throne room
+44 - black space
+50 - sg b1
+
+weapons 0x36  5 maximum
+
+00 - nothing
+01 - snek
+03 - fireball
+04 - machine gun
+05 - missile launcher
+07 - missile expand
+08 - green thing
+09 - blade
+
+items 0xd8 3 byte spacing
+
+00 - nothing
+01 - arthurs key
+02 - mapping system
+03 - santas key
+04 - silver locket
+05 - beast fang
+06 - life capsule
+07 - id card
+08 - jellyfish juice
+09 - rusty key
+0a - gum key
+0b - gumbase
+0c - charcoal
+0d - bomb
+0e - puppy
+0f - life pot
+10 - cure all
+11 - clinic key
+12 - booster 0.8
+13 - arms barrier
+14 - turbocharge
+15 - airtank
+16 - 290 counter
+17 - booster 2.0
+18 - mimiga mask
+19 - teliporter room key
+1a - sues letter
+1b - controller
+1c - broken sprinkler
+1d - sprinkler
+1e - tow rope
+1f - red golem medal
+20 - little man
+21 - mushroom badge
+22 - ma pignon
+23 - snacks
+24 - squid medal
+25 - chacos lipstick
+26 - whimsical star
+27 - iron bond
+28-ff - mapping systems with random textures
+?? - invisible items
