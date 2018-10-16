@@ -6,6 +6,7 @@ Neptunia            Name                Rating              Url
 .nepf                   Fury Form
 .nep*                   Maker
 .nepA                   ASIC
+.nepa                   AzurLane Collab
 ---------------------------------------------------------------
 .nepF
 Form 0              Pururuto            19++
@@ -17,7 +18,7 @@ Form 0              Baby Pishe          5+
 Form 1              Pishe               6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%94%E3%83%BC%E5%AD%90
 Form 2              Yellow Heart        10-                 https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%88%A5%E6%AC%A1%E5%85%83%E3%81%AE%E5%A5%B3%E7%A5%9E%EF%BC%BD%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%88
 
-.nepC
+.nepC.nepB.nepA.nepa
 Form 0              Bugnet Nep          8+
 Form 1              Neptune             8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8D%E3%83%97%E5%AD%90%EF%BC%88%E2%98%865%EF%BC%89
 Form 2              Purple Heart        3+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E9%A1%95%E7%8F%BE%E8%80%85%EF%BC%BD%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%88
@@ -57,9 +58,10 @@ Form 10             Christmas Nepgear   9+                  https://nepnep-conne
 Form 0              Uzume               9++
 Form 1              Orange Heart        3-
 
+.nepA
 Form 0              Nepugia             6++
 
-.nepC.nepF.nepB
+.nepC.nepF.nepB.nepa
 Form 0              Noire               7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%AE%E3%82%8F%E3%81%AE%E3%82%8F%EF%BC%88%E2%98%865%EF%BC%89
 Form 1              Black Heart         70--
 Form 2              Next Black          2+                  https://nepnep-connect.wikiwiki7.com/index.php?NEXT%20BLACK
@@ -109,7 +111,7 @@ Form 2              Child Compa         15-                 https://nepnep-conne
 Form 3              Compa               12-
 Form 4              Awakened Compa      19-
 
-.nepC.nepF
+.nepC.nepF.nepa.nepB
 Form 0              Blanc               11++                https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%B6%E3%82%89%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%EF%BC%88%E2%98%86%EF%BC%95%EF%BC%89
 Form 1              White Heart         10+
 Form 2              Next White          7+                  https://nepnep-connect.wikiwiki7.com/index.php?NEXT%20WHITE
@@ -144,7 +146,7 @@ Form 3              Chaos Cyan          5+                  https://nepnep-conne
 Form 4              Summer Rom          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
 Form 5              Christmas Rom       8+
 
-.nepC.nepF.nepB
+.nepC.nepF.nepB.nepa
 Form 0              Vert                1++                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%B9%E3%82%8B%E3%81%B9%E3%82%8B%EF%BC%88%E2%98%86%EF%BC%95%EF%BC%89
 Form 1              Green Heart         70-
 Form 2              Next Green          140-                https://nepnep-connect.wikiwiki7.com/index.php?NEXT%20GREEN
