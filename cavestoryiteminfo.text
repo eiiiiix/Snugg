@@ -1,8 +1,14 @@
 cave story
 
-health 0x1c 0x20
+health
+0x1c - current health
+0x20 - maximum health
 
-equips 0x2c
+setting higher than ff will set to 0
+
+equipment
+0x2c
+
 01 - booster 0.8
 02 - nothing
 12 - nothing
@@ -11,17 +17,18 @@ equips 0x2c
 42 - mimiga mask
 52 - mimiga mask
 62 - mimiga mask and booster 2.0
-63 - mimiga mask whimsical star and booster 2.0
+63 - mimiga mask, whimsical star, and booster 2.0
 72 - mimiga mask and booster 2.0
 82 - nothing
 92 - nothing
 a2 - booster 2.0
-f3 - mimiga mask air tank whimsical star and booster 2.0
+f3 - mimiga mask, air tank, whimsical star, and booster 2.0
 
-maps 0x8
+map
+0x8
 
-00 - empty room, no tiles
-01 - arth house
+00 - null
+01 - arthurs house
 02 - egg corridor
 03 - egg 00 room
 04 - egg 06
@@ -31,32 +38,110 @@ maps 0x8
 08 - chakos house
 09 - labr 1
 0a - sandzone
+0b - mimiga village
+0c - first cave
 0d - startzone
+0e - shack
 0f - fish
+10 - graveyard
+11 - yam farm
 12 - opening cutscene/shelter
+13 - assembly hall
 14 - savepoint
 15 - sideroom
+16 - cthulhus abode
+17 - egg 01
+18 - sue computer
+19 - power room
+1a - save point
+1b - execution chamber
+1c - gum room
+1d - curlys house
+1e - bushlands hut
 1f - iornhead
 26 - labr 2
 2a - labr shop
-35 - outer edge? (i spawned in a wall but i think thats the outside music and colours)
+35 - outer edge
 3f - final cave
 40 - throne room
 44 - black space
 50 - sg b1
 
-weapons 0x36  5 maximum
+weapons
+0x38 - slot 1
+0x4c - slot 2
+0x60 - slot 3
+0x74 - slot 4
+0x88 - slot 5
+0x9c - slot 6
+0xb0 - slot 7
+0xc4 - slot 8
 
 00 - nothing
 01 - snek
+02 - polar star
 03 - fireball
 04 - machine gun
 05 - missile launcher
-07 - missile expand
+06 - missile expand
+07 - bubbler
 08 - green thing
 09 - blade
+0a - super missile
+0b - super missile expand
+0c - nemesis
+0d - spur
+0e-ff - hajime
 
-items 0xd8 3 byte spacing
+xp
+0x3c - slot 1
+0x50 - slot 2
+0x64 - slot 3
+0x78 - slot 4
+0x8c - slot 5
+0xa0 - slot 6
+0xb4 - slot 7
+0xc8 - slot 8
+
+00 - no level, wont shoot
+01 - level 1
+02 - level 2
+03 - level 3
+04-ff - too high to shoot
+
+item
+0xd8 - slot 1
+0xdc - slot 2
+0xe0 - slot 3
+0xe4 - slot 4
+0xe8 - slot 5
+0xec - slot 6
+0xf0 - slot 7
+0xf4 - slot 8
+0xf8 - slot 9
+0xfc - slot 10
+0x100 - slot 11
+0x104 - slot 12
+0x108 - slot 13
+0x10c - slot 14
+0x110 - slot 15
+0x114 - slot 16
+0x118 - slot 17
+0x11c - slot 18
+0x120 - slot 19
+0x124 - slot 20
+0x128 - slot 21
+0x12c - slot 22
+0x130 - slot 23
+0x134 - slot 24
+0x138 - slot 25
+0x13c - slot 26
+0x140 - slot 27
+0x144 - slot 28
+0x148 - slot 29
+0x14c - slot 30
+0x150 - slot 31
+0x154 - slot 32
 
 00 - nothing
 01 - arthurs key
@@ -72,7 +157,7 @@ items 0xd8 3 byte spacing
 0b - gumbase
 0c - charcoal
 0d - bomb
-0e - puppy
+0e - puppy, changes name depending on event flags
 0f - life pot
 10 - cure all
 11 - clinic key
@@ -98,5 +183,4 @@ items 0xd8 3 byte spacing
 25 - chacos lipstick
 26 - whimsical star
 27 - iron bond
-28-ff - mapping systems with random textures
-?? - invisible items
+28-ff - mapping systems with random textures, mostly no texture
