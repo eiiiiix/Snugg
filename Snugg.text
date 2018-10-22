@@ -169,7 +169,7 @@ Form 17             Spy Vert            2++
 Form 18             Boat Vert           1++
 Form 19             Oath Vert           1++
 
-.nepC
+.nepC.nep*
 Form 0              Rei                 16++
 Form 1              Blue Heart          25++
 Form 2              Chaos Blue          17++
@@ -1761,7 +1761,7 @@ Form 1              Camille Rembrandt   6+
 Form 1?             Zio                 4+
 
 
-Crystal Chronicles  Name                Rating              Url
+Crystal Chronicals  Name                Rating              Url
 ---------------------------------------------------------------
 .chrS               Selkie
 .chrL               Lilty
@@ -1881,3 +1881,30 @@ Form 0              Jake                1-
 
 .chrC
 Form 0              Lulie               9-
+
+.chrC
+Form 0              Cecil               4+
+
+.chrL
+Form 0              Hugh Midd           5+
+
+.chrS
+Form 0              Te Odow             6+
+
+.chrS
+Form 0              Ji Meon             5+
+
+.chrL
+Form 0              Nat Dennim          5+
+
+.chrL
+Form 0              Karin Dennim        5+
+
+.chrC
+Form 0              Rashe               6+
+
+.chrC
+Form 0              Arneaux             4+
+
+.chrC
+Form 0              Sophia              4+
