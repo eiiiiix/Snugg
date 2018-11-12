@@ -1,12 +1,12 @@
 Neptunia            Name                Rating              Url
 ---------------------------------------------------------------
-.nepC                   Chaos Form
-.nepF                   Festive/alt
-.nepB                   Bridal
-.nepf                   Fury Form
-.nep*                   Maker
-.nepA                   ASIC
-.nepa                   AzurLane Collab
+.nepC               Chaos Form
+.nepF               Festive/alt
+.nepB               Bridal
+.nepf               Fury Form
+.nep*               Maker
+.nepA               ASIC
+.nepa               AzurLane Collab
 ---------------------------------------------------------------
 .nepF
 Form 0              Pururuto            19++
@@ -89,7 +89,7 @@ Form 3              Outing              5+
 Form 4              Chaos Uni           4+
 Form 5              Chaos Black (2)     6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
 Form 6              Spy Uni             7+
-Form 7              Christmas uni       9+
+Form 7              Christmas uni
 
 Form 0              Big Histy           7+
 Form 1              Mini Histy          5+
@@ -322,9 +322,9 @@ Form 3              Dark Black          5-
 Form 4              Dark Green          5-
 Form 5              Dark Purple         5-
 
-Form 0              Caelus              7+
-Form 1              Caelus HDD          7-
-Form 2              Caelus Dead         3+
+Form 0              Cælus               7+
+Form 1              Cælus HDD           7-
+Form 2              Cælus Dead          3+
 
 .nep*
 Form 0              Teen Falcom         9+
@@ -2136,3 +2136,40 @@ Form 0              Meh Gaj             5+
 
 Form 0              Artemicion          800+
 
+.chrL
+Form 0              Carl Messa          4+
+
+.chrL
+Form 0              Adam Arl            4+
+
+.chrL
+Form 0              Daryl Hope          4+
+
+.chrL
+Form 0              Leon Elsa           5--
+
+
+Azur Lane           Name                Rating              Url
+---------------------------------------------------------------
+.azrC               Collab
+---------------------------------------------------------------
+Form 0              Universal Bulin     6+                  https://azurlane.koumakan.jp/Universal_Bullin
+
+Form 0              Bulin Mk2           5+                  https://azurlane.koumakan.jp/Trial_Bullin_MKII
+
+Form 0              Cassin              5+                  https://azurlane.koumakan.jp/Cassin
+
+Form 0              Downes              7+                  https://azurlane.koumakan.jp/Downes
+
+Form 0              Gridley             3+                  https://azurlane.koumakan.jp/Gridley
+
+Form 0              Craven              4+                  https://azurlane.koumakan.jp/Craven
+Form 1              Cheerleader Craven  4+                  https://azurlane.koumakan.jp/Craven#Outdoor%20Cheerleader
+
+Form 0              McCall              7++                 https://azurlane.koumakan.jp/McCall
+
+Form 0              Maury               5+                  https://azurlane.koumakan.jp/Maury
+
+Form 0              Fletcher            4+                  https://azurlane.koumakan.jp/Fletcher
+
+Form 0              Charles Ausburne    0                   https://azurlane.koumakan.jp/Charles_Ausburne
