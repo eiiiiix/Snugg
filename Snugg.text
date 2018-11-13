@@ -13,10 +13,12 @@ Form 0              Pururuto            19++
 Form 1              Iris Heart          50++
 Form 2              Light Iris          49++
 Form 3              Halloween Ploot     20++                https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%97%E3%83%AB%E3%83%AB%E3%83%BC%E3%83%88%E3%80%94%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%80%95
+Form 4              Newyears Ploot      30++
 
 Form 0              Baby Pishe          5+
 Form 1              Pishe               6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%94%E3%83%BC%E5%AD%90
 Form 2              Yellow Heart        10-                 https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%88%A5%E6%AC%A1%E5%85%83%E3%81%AE%E5%A5%B3%E7%A5%9E%EF%BC%BD%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%88
+Form 3              Newyears Pishe      5+
 
 .nepC.nepB.nepA.nepa
 Form 0              Bugnet Nep          8+
@@ -41,19 +43,25 @@ Form 18             Shrine Nep          9+
 Form 19             Spy Nep             8+
 Form 20             Boat Nep            8+
 Form 21             Oath Nep            7+
+Form 22             Bravo Nep           3+
+Form 23             Cupid Nep           4+
+Form 24             Russian Nep         4
+Form 25             Mini Purple         3+
+
 
 .nepC.nepF
-Form 0              Nepgear             3+
-Form 1              Purple Sister       6+
-Form 2              Nepgya              3+
-Form 3              Outing              3+
-Form 4              Chaos Nepgear       8+
-Form 5              Chaos Purple (2)    7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
-Form 6              Nepgear V           3+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%80%94V%E3%80%95
-Form 7              Nepgear V (2)       3+
-Form 8              Light Purple (2)    4+
-Form 9              Halloween Nepgear   8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8D%E3%83%97%E3%82%AE%E3%82%A2%E3%80%94%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%80%95
-Form 10             Christmas Nepgear   9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8D%E3%83%97%E3%82%AE%E3%82%A2%E3%80%94%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%80%95
+Form 0              Baby Nepgear        3+
+Form 1              Nepgear             3+
+Form 2              Purple Sister       6+
+Form 3              Nepgya              3+
+Form 4              Outing              3+
+Form 5              Chaos Nepgear       8+
+Form 6              Chaos Purple (2)    7+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
+Form 7              Nepgear V           3+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%80%94V%E3%80%95
+Form 8              Nepgear V (2)       3+
+Form 9              Light Purple (2)    4+
+Form 10             Halloween Nepgear   8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8D%E3%83%97%E3%82%AE%E3%82%A2%E3%80%94%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%80%95
+Form 11             Christmas Nepgear   9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%8D%E3%83%97%E3%82%AE%E3%82%A2%E3%80%94%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%80%95
 
 Form 0              Uzume               9++
 Form 1              Orange Heart        3-
@@ -82,14 +90,15 @@ Form 16             Boat Noire          8+
 Form 17             Oath Noire          7+
 
 .nepC.nepB.nepF
-Form 0              Uni                 5+
-Form 1              Black Sister        70-
-Form 2              Bridal Uni          6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89%EF%BC%BD%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC
-Form 3              Outing              5+
-Form 4              Chaos Uni           4+
-Form 5              Chaos Black (2)     6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
-Form 6              Spy Uni             7+
-Form 7              Christmas uni       9+
+Form 0              Baby Uni            4+
+Form 1              Uni                 5+
+Form 2              Black Sister        70-
+Form 3              Bridal Uni          6+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89%EF%BC%BD%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC
+Form 4              Outing              5+
+Form 5              Chaos Uni           4+
+Form 6              Chaos Black (2)     6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
+Form 7              Spy Uni             7+
+Form 8              Christmas Uni       9+
 
 Form 0              Big Histy           7+
 Form 1              Mini Histy          5+
@@ -103,6 +112,7 @@ Form 1              Child IF            12+                 https://nepnep-conne
 Form 2              IF                  10+
 Form 3              Awakened IF         9+
 Form 4              Gym IF              8+                  http://www.compileheart.com/neptune/blog/if_taisougi1.jpg
+Form 5              Newyears IF         7+
 
 .nep*
 Form 0              Compile             3+
@@ -111,6 +121,7 @@ Form 2              Child Compa         15-                 https://nepnep-conne
 Form 3              Compa               12-
 Form 4              Awakened Compa      19-
 Form 5              Chu Compa           30-
+Form 6              Newyears Compa      16-
 
 .nepC.nepF.nepa.nepB
 Form 0              Blanc               11++                https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%B6%E3%82%89%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%EF%BC%88%E2%98%86%EF%BC%95%EF%BC%89
@@ -132,20 +143,22 @@ Form 15             Boat Blanc          11++
 Form 16             Oath Blanc          11++
 
 .nepC.nepF
-Form 0              Ram                 6+
-Form 1              Pink Sister         7+
-Form 2              Chaos Ram           7+
-Form 3              Chaos Pink          8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
-Form 4              Summer Ram          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
-Form 5              Christmas Ram       7+
+Form 0              Baby Ram            5+
+Form 1              Ram                 6+
+Form 2              Pink Sister         7+
+Form 3              Chaos Ram           7+
+Form 4              Chaos Pink          8+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
+Form 5              Summer Ram          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
+Form 6              Christmas Ram       7+
 
 .nepC.nepF
-Form 0              Rom                 7+
-Form 1              Cyan Sister         4+
-Form 2              Chaos Rom           5+
-Form 3              Chaos Cyan          5+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%AD%E3%83%A0%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
-Form 4              Summer Rom          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
-Form 5              Christmas Rom       8+
+Form 0              Baby Rom            6+
+Form 1              Rom                 7+
+Form 2              Cyan Sister         4+
+Form 3              Chaos Rom           5+
+Form 4              Chaos Cyan          5+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%AD%E3%83%A0%EF%BC%BB%E3%82%AB%E3%82%AA%E3%82%B9%EF%BC%BD
+Form 5              Summer Rom          9+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%AD%E3%83%A0%EF%BC%86%E3%83%A9%E3%83%A0%EF%BC%BB%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%BD
+Form 6              Christmas Rom       8+
 
 .nepC.nepF.nepB.nepa
 Form 0              Vert                1++                 https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%B9%E3%82%8B%E3%81%B9%E3%82%8B%EF%BC%88%E2%98%86%EF%BC%95%EF%BC%89
@@ -253,6 +266,8 @@ Form 0              Ai                  50-
 .nep*
 Form 0              MarvelousAQL        3+
 
+Form 0              Jack                4+
+
 .nep*
 Form 0              5pb                 2+
 
@@ -323,8 +338,10 @@ Form 4              Dark Green          5-
 Form 5              Dark Purple         5-
 
 Form 0              Cælus               7+
-Form 1              Cælus HDD           7-
+Form 1              Cælus HDD           2-
 Form 2              Cælus Dead          3+
+
+Form 0              Yæmon               4-
 
 .nep*
 Form 0              Teen Falcom         9+
@@ -344,6 +361,7 @@ Form 0              Younger Brother     10-
 .nepA
 Form 0              Pirachu             4-
 Form 1              Mascot              4-
+Form 2              Maidchu             4-
 
 .nepA
 Form 0              Phonychu            4-
@@ -1049,6 +1067,9 @@ Form 0              Convechu            4-
 
 .nepA
 Form 0              Linda(fuk u nepgear)4+
+Form 1              Maid Linda          5+
+Form 2              Summer Linda        7+
+Form 3              String Linda        6+
 
 Form 0              Anonydeath (human)  8+
 Form 1              Anonydeath (mech)   3-
@@ -1076,6 +1097,7 @@ Form 0              Cave                2+
 
 .nep*
 Form 0              Gust                3+
+Form 1              Mini Gust           3+
 
 Form 0              K-Sha               5+
 Form 1              Gold K              4+
@@ -1093,6 +1115,14 @@ Form 1              Gold B              3+
 Form 0              E-Sha               5+
 Form 1              Gold E              7+
 
+Form 0              Robird              9-
+
+Form 0              Zou                 9-
+
+Form 0              Hato                9-
+
+Form 0              Pen                 9-
+
 Form 0              Yvorie              90--
 
 Form 0              Dangly              5+
@@ -1107,6 +1137,10 @@ Form 0              CFW Judge           8--
 Form 0              Kiria               3+
 
 Form 0              CFW Magic           8--
+Form 1              Summer Magic        2-
+Form 2              String Magic        3-
+
+Form 0              Taro G41moto        2-
 
 Form 0              Prototype           2-
 
@@ -1117,6 +1151,8 @@ Form 0              Kuma                6+
 
 .nep*
 Form 0              CyberConnect2       10+
+
+Form 1              Mister Cheif        2+
 
 .nep*
 Form 0              Stella              7+
@@ -1220,8 +1256,6 @@ Form 0              Cheetah             NO
 Form 0              Ganache             50--
 
 Form 0              Singe               50--
-
-Form 0              Linda               7+
 
 Form 0              CFW Brave           8--
 
