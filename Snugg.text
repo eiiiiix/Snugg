@@ -1,4 +1,5 @@
 Neptunia            Name                Rating              Url
+Actually just CompileHeart at this point
 ---------------------------------------------------------------
 .nepC               Chaos Form
 .nepF               Festive/alt
@@ -19,6 +20,7 @@ Form 0              Baby Pishe          5+
 Form 1              Pishe               6+                  https://nepnep-connect.wikiwiki7.com/index.php?%E3%83%94%E3%83%BC%E5%AD%90
 Form 2              Yellow Heart        10-                 https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E5%88%A5%E6%AC%A1%E5%85%83%E3%81%AE%E5%A5%B3%E7%A5%9E%EF%BC%BD%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%88
 Form 3              Newyears Pishe      5+
+Form 4              Eruption Pishe      5+
 
 .nepC.nepB.nepA.nepa
 Form 0              Bugnet Nep          8+
@@ -47,7 +49,9 @@ Form 22             Bravo Nep           3+
 Form 23             Cupid Nep           4+
 Form 24             Russian Nep         4
 Form 25             Mini Purple         3+
-
+Form 26             Knight              5+
+Form 27             Samurai Neptune     7+
+Form 28             Hiro-Nep            8+                  http://file.tyamo.wa-syo-ku.com/4fc9fc5b.jpeg
 
 .nepC.nepF
 Form 0              Baby Nepgear        3+
@@ -88,6 +92,8 @@ Form 14             Shrine Noire        7+
 Form 15             Spy Noire           8+
 Form 16             Boat Noire          8+
 Form 17             Oath Noire          7+
+Form 18             Witch               6+
+Form 19             Samurai Noire       7+
 
 .nepC.nepB.nepF
 Form 0              Baby Uni            4+
@@ -103,6 +109,7 @@ Form 8              Christmas Uni       9+
 Form 0              Big Histy           7+
 Form 1              Mini Histy          5+
 Form 2              Drill Srgt. Histy   4+
+Form 3              Summer Histy        6+
 
 Form 0              Mina                4+
 
@@ -122,6 +129,7 @@ Form 3              Compa               12-
 Form 4              Awakened Compa      19-
 Form 5              Chu Compa           30-
 Form 6              Newyears Compa      16-
+Form 7              Samurai? Compa      17-
 
 .nepC.nepF.nepa.nepB
 Form 0              Blanc               11++                https://nepnep-connect.wikiwiki7.com/index.php?%E3%81%B6%E3%82%89%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%EF%BC%88%E2%98%86%EF%BC%95%EF%BC%89
@@ -141,6 +149,7 @@ Form 13             Christmas Blanc     12++
 Form 14             Shrine Blanc        11++
 Form 15             Boat Blanc          11++
 Form 16             Oath Blanc          11++
+Form 17             Healer              11++
 
 .nepC.nepF
 Form 0              Baby Ram            5+
@@ -181,12 +190,14 @@ Form 16             Shrine Vert         1++
 Form 17             Spy Vert            2++
 Form 18             Boat Vert           1++
 Form 19             Oath Vert           1++
+Form 20             Preist              1++
 
 .nepC
 Form 0              Rei                 16++
 Form 1              Blue Heart          25++
 Form 2              Chaos Blue          17++
 Form 3              True Rei            16++
+Form 4              Fastfood Rei        18++
 
 .nep*
 Form 0              Segami              7+
@@ -226,9 +237,11 @@ Form 0              Abnes               0
 Form 0              Tamsoft             4+
 Form 1              Awakened Tamsoft    4+
 
+.nep*
 Form 0              Dengekiko           5+
 Form 1              Combat Dengekiko    4+
 
+.nep*
 Form 0              Famitsu             7+
 Form 1              Combat Famitsu      6+
 
@@ -337,6 +350,10 @@ Form 3              Dark Black          5-
 Form 4              Dark Green          5-
 Form 5              Dark Purple         5-
 
+Form 0              Word                4+
+
+Form 0              Eco                 4+
+
 Form 0              Cælus               7+
 Form 1              Cælus HDD           2-
 Form 2              Cælus Dead          3+
@@ -363,6 +380,8 @@ Form 0              Pirachu             4-
 Form 1              Mascot              4-
 Form 2              Maidchu             4-
 
+Form 0              Sheena              3+                  https://megamiracle-force.com/wp-content/uploads/2018/11/system3.png
+
 .nepA
 Form 0              Phonychu            4-
 
@@ -373,49 +392,7 @@ Form 0              Resellchu           4-
 Form 0              Uploadchu           4-
 
 .nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
-
-.nepA
-Form 0              Camerachu           4-
+Form 0              Camerachu^15        4-
 
 .nepA
 Form 0              Chucook             5-
@@ -451,619 +428,7 @@ Form 0              Blockchu            4-
 Form 0              Bigchu              4-
 
 .nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
-
-.nepA
-Form 0              Convechu            4-
+Form 0              Convechu^205        4-
 
 .nepA
 Form 0              Linda(fuk u nepgear)4+
@@ -1077,6 +442,10 @@ Form 1              Anonydeath (mech)   3-
 Form 0              Mr.Badd             20-
 
 Form 0              Copypaste           2-
+
+Form 0              Ann                 8+                  https://megamiracle-force.com/wp-content/uploads/2018/11/system3.png
+
+Form 0              Rosé                7+                  https://megamiracle-force.com/wp-content/uploads/2018/11/preregi_home_org.png
 
 .nepF
 Form 0              Kaminuki Natsume    7+                  https://nepnep-connect.wikiwiki7.com/index.php?%EF%BC%BB%E3%82%AE%E3%82%A4%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%82%BA%EF%BC%BD%E7%A5%9E%E8%B2%AB%E3%83%8A%E3%83%84%E3%83%A1
@@ -1153,6 +522,9 @@ Form 0              Kuma                6+
 Form 0              CyberConnect2       10+
 
 Form 1              Mister Cheif        2+
+
+.nep*
+Form 0              4-Gamergirl         8+
 
 .nep*
 Form 0              Stella              7+
@@ -1560,6 +932,8 @@ Form 0              Komaki Daisaku      5+
 
 Form 0              Stark Zordan        3-
 
+Form 0              Shiten Touka        5-
+
 Form 0              Osakabe Makie       3+
 
 Form 0              Kamikage Ryuujirou  700--
@@ -1612,6 +986,8 @@ Form 0              Maya                4+
 
 Form 0              Kongou              2-
 
+Form ?              Gretel Hexeandvari  0-
+
 Form 0              Hiei                2-
 
 Form 0              Myoukou             2-
@@ -1625,6 +1001,8 @@ Form 0              Ashigara            7+
 Form 0              Haruna              6++
 
 Form 0              Kirishima           4+
+
+Form 0              Archer              6-
 
 Form 0              Choukai             2+
 
@@ -1652,6 +1030,8 @@ Form 0              Yamato (1)          2+
 
 Form 0              Yamato (2)          2+
 
+Form 0              Akagi               5+
+
 Form 0              Yukikaze            5++
 
 Form 0              Repulse             1+
@@ -1659,6 +1039,10 @@ Form 0              Repulse             1+
 Form 0              Vampire             1+
 
 Form 0              Zuikaku             5++
+-
+Form 0              Cat                 9+++
+actually real fandom ignores chapter 92
+Form 1              Octopus             ???
 
 Form 0              b-67 (Phantom)      16++
 
@@ -2164,6 +1548,9 @@ Form 0              Mio                 7+
 
 .chrS
 Form 0              Bal Dat             6+
+
+.chrS
+Form 0              Bel Dat             8+
 
 .chrS
 Form 0              Meh Gaj             5+
